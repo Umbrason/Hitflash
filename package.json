@@ -1,0 +1,12 @@
+{
+  "name": "com.umbrason.hitflash",
+  "version": "1.0.0",
+  "displayName": "Hitflash",
+  "description": "",
+  "keywords": [    
+  ],
+  "author": {
+    "name": "Umbrason"
+  },
+  "hideInEditor": false
+}
